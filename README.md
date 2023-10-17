@@ -4,6 +4,8 @@ The purpose of this application is to incorporate a third party API into our own
 
 Once you have the application running, you will able to view random suggestions/activties to partake in. You will also be able to select a category for an activity type & number of participants you wish to include, the API will provide back to our server suggested random activties. See steps below on how to get this application started.
 
+We will primarily use EJS Templating, Node.js, and Axios for this project.
+
 Run this project using npm.
 
 1) To run this project you will need to clone this repo using SSH or HTTP
