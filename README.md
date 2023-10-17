@@ -2,11 +2,7 @@
 
 The purpose of this application is to incorporate a third party API into our own Web Application. This third party API is - provided by Angela Yu - https://bored-api.appbrewery.com/.
 
-Once you have the application running, you will able to view random suggestions/activties to partake in. You will also be able to select a category for an activity type & number of participants you wish to include, the 
-
-API will provide back to our server suggested random activties. See steps below on how to get this application started.
-
-
+Once you have the application running, you will able to view random suggestions/activties to partake in. You will also be able to select a category for an activity type & number of participants you wish to include, the API will provide back to our server suggested random activties. See steps below on how to get this application started.
 
 Run this project using npm.
 
