@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "engines": {
-    "node": "v18.12.1",
-    "npm": ">= 6.0.0"
-  },
   "homepage": "",
   "repository": {
     "type": "git",
@@ -15,6 +11,10 @@
   "bugs": "",
   "keywords": [],
   "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "v18.12.1"
+  },
   "contributors": [],
   "scripts": {
     "dev": "",
