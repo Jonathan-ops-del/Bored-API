@@ -14,4 +14,4 @@ Run this project using npm.
 4) Once the dependencies are installed, you can go back into the terminal and use nodemon index.js to have your API running on port 3000. - "nodemon index.js"
 5) You can now go to your browser and enter "http://localhost:3000/" to view the application
 
-**NOTE***This project has also been uploaded to Heroku, and you can simply use the link - https://secure-woodland-82900-3bfcf1f25da9.herokuapp.com/ - to view the application on your Web Browser.
+**NOTE***This project has also been uploaded to Heroku, and you can simply use the link - https://my-bored-api-app-47faa6a5c913.herokuapp.com/ - to view the application on your Web Browser.
